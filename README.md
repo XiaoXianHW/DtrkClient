@@ -6,6 +6,7 @@ A Editing 1.8.8 Minecraft PVP(Maybe) Client
 新版本请转至DtrkClient-RD
 
 只提供Src，构建很简单，YT或B站都有教程
+（很抱歉，已停止Src提供，如需Dis联系XiaoXian#7900）
 
 - 1.8.8版本构建（MCP918）
 - ViaVersion（跨版本）
