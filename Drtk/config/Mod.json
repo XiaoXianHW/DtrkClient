@@ -1,0 +1,26 @@
+{
+  "Sprint": {
+    "enable": true,
+    "key": 47
+  },
+  "ModList": {
+    "enable": true,
+    "key": 24
+  },
+  "Tab": {
+    "enable": true,
+    "key": 0
+  },
+  "GameInfo": {
+    "enable": true,
+    "key": 0
+  },
+  "TargetInfo": {
+    "enable": true,
+    "key": 0
+  },
+  "HitBox": {
+    "enable": true,
+    "key": 0
+  }
+}

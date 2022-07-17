@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DtrkClient">
+    <output-path>$PROJECT_DIR$/out/artifacts/DtrkClient</output-path>
+    <root id="archive" name="DtrkClient.jar">
+      <element id="module-output" name="Client" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../lib/vecmath-1.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jars/libraries/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../lib/ViaBackwards-4.3.1-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../lib/ViaRewind-2.0.3-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../lib/ViaSnakeYaml-1.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../lib/ViaVersion-4.3.2-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
